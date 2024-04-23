@@ -1,0 +1,21 @@
+[debug] [2024-04-23T16:54:05.428Z] ----------------------------------------------------------------------
+[debug] [2024-04-23T16:54:05.432Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\mehpe\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-04-23T16:54:05.434Z] CLI Version:   13.7.3
+[debug] [2024-04-23T16:54:05.434Z] Platform:      win32
+[debug] [2024-04-23T16:54:05.435Z] Node Version:  v18.17.1
+[debug] [2024-04-23T16:54:05.436Z] Time:          Tue Apr 23 2024 20:54:05 GMT+0400 (Азербайджан, стандартное время)
+[debug] [2024-04-23T16:54:05.437Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-04-23T16:54:05.457Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-04-23T16:54:05.458Z] > authorizing via signed-in user (nmaia6892@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  F:\HTML\REACT\TYPESCRIPT\post-app
+
